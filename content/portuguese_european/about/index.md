@@ -1,12 +1,12 @@
 +++
 date = "2020-06-20T13:15:00+02:00"
-title = "About The Site"
+title = "Sobre o Site"
 type = "about"
 +++
 
-whentheycamedown is a project documenting the removal of statues representing white supremacy, oppression, genocide, colonialism, and racism throughout the world. This is a collaborative effort started by Emily Gorcenski, although the intention of the project is to open source contribution in the style of open knowledge.
+whentheycamedown é um projecto que documenta a remoção de estátuas que representam a supremacia branca, opressão, genocídio, colonialismo e racismo em todo o mundo. Este é um esforço colaborativo começado por Emily Gorcenski, apesar da intenção do projecto ser a contribuição open source no estilo de conhecimento aberto.
 
-This project takes the stance that the removal of statues represents an important and inextricable part of the history of the people, groups, and moments that those statues represent. Removing of statues, renaming of parks, and similar actions is not an act of erasing history, but an act of adding to history by capturing the spirit, beliefs, motivations, and actions of the people who lived during the times those statues stood. It is the goal of this project to document the people who aimed to remove the monuments more than the people represented by the monuments. The project seeks to document the history of the activists, their efforts to remove statues through proper and improper channels, and the history of the people oppressed by those who the statues represent.
+Este projecto adopta a postura de que a remoção de estátuas representa uma parte importante e inextricável da história das pessoas, grupos e momentos que essas estátuas representam. A remoção de estátuas, mudança do nome de parques e acções similares não são actos que apagam a história, mas actos de adicionar à história, ao capturarem o espírito, as crenças, motivações e acções das pessoas que viveram durante a altura em que essas estátuas se mantiveram. Este projecto tem como objectivo documentar as pessoas que pretenderam removar os monumentos mais do que as pessoas representadas pelos monumentos. O projecto procura documentar a história dos activistas, os seus esforços para remover as estátuas através de meios próprios e impróprios, e a história das pessoas oprimidas por aqueles que as estátuas representam.
 
 This site's existence is not a call for the removal of such monuments. The site does not represent an incitement to vandalism or destruction, nor does it condemn such actions. The purpose of the site is to uplift the histories of those intertwined with the history of the people memorialized in the statues, monuments, parks, and so on. The site seeks to add to history, not take away from it.
 
